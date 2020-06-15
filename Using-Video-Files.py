@@ -1,6 +1,6 @@
 import cv2
 import time
-cap = cv2.VideoCapture('../DATA/video_capture.mp4')
+cap = cv2.VideoCapture('vedio_file.mp4')
 
 fps = 25
 
